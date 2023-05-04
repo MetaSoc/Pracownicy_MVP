@@ -1,0 +1,11 @@
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.csproj.AssemblyReference.cache
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.csproj.SuggestedBindingRedirects.cache
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.csproj.GenerateResource.cache
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.csproj.CoreCompileInputs.cache
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.Views.WorkerView.resources
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\bin\Debug\Pracownicy_MVP.exe.config
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\bin\Debug\Pracownicy_MVP.exe
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\bin\Debug\Pracownicy_MVP.pdb
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.Properties.Resources.resources
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.exe
+D:\Programs\VisualStudio\_VS-Projects\Lab_02-Pracownicy\Pracownicy_Formularz_MVP\obj\Debug\Pracownicy_MVP.pdb
